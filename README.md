@@ -13,12 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
   <h1><strong>Junior Mauricio Villalta Flores</strong></h1>
   <h3><strong>Web Developer | Egresado de Ingeniería de Sistemas Informáticos</strong></h3>
   
   I have skills in Web and Mobile Development. I am committed, organizational and with the ability to collaborate in teams. 
-</div>
 
 
 
