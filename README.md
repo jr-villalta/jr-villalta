@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   <h1><strong>Junior Mauricio Villalta Flores</strong></h1>
-  <h3><strong>Web Developer | Egresado de Ingeniería de Sistemas Informáticos</strong></h3>
+  <h3><strong>Web Developer | Software Engineering</strong></h3>
   
   I have skills in Web and Mobile Development. I am committed, organizational and with the ability to collaborate in teams. 
 
@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 ## Education 📚
 <div align="center">
 
-| Institution                              | Degree                                                   | Period       |
-|------------------------------------------|----------------------------------------------------------|---------------|
-| Universidad de El Salvador               | _*Software Engineering*_ (Egresado de Ingeniería de Sistemas Informáticos) | 2019 - 2023   |
-| Instituto Nacional de Nueva Guadalupe    | _*High School in Software Development*_                  | 2016 - 2018   |
+| Institution                              | Degree                                  | Period        |
+|------------------------------------------|-----------------------------------------|---------------|
+| Universidad de El Salvador               | _*Software Engineering*_                | 2019 - 2023   |
+| Instituto Nacional de Nueva Guadalupe    | _*High School in Software Development*_ | 2016 - 2018   |
 </div>
 
 <hr>
