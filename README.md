@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   <h1><strong>Junior Mauricio Villalta Flores</strong></h1>
-  <h3><strong>BACKEND AND MOBILE DEVELOPER | SOFTWARE ENGINEERING</strong></h3>
+  <h3><strong>SOFTWARE ENGINEERING</strong></h3>
   
   I have skills in Web and Mobile Development. I am committed, organizational and with the ability to collaborate in teams. 
 
