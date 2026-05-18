@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   <h1><strong>Junior Mauricio Villalta Flores</strong></h1>
   <h3><strong>SYSTEMS ANALYST | QA ANALYST | SOFTWARE ENGINEER | WEB DEVELOPER</strong></h3>
   
-  Software Engineer with experience as a Systems Analyst and QA Analyst
+  Software Engineer with experience as a Systems Analyst and QA Analyst.
 
 
 
